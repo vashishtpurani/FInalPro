@@ -1,0 +1,14 @@
+.main_container{
+  display: flex;
+  height: 100%;
+  background-color: #56CFE1;
+  border-radius: 6px;
+  font-size: 15px;
+
+  app-sidebar{
+    height: auto;
+  }
+  app-chat-area{
+    height: 100%;
+  }
+}
